@@ -1,0 +1,67 @@
+- The Alignment Problem: Machine Learning and Human Values
+  - Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS – And More – The Full Data Scientist Interview Handbook
+  - Data Science for Dummies: 2nd Edition
+  - Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Machine Learning with Python for Beginners Book 1)   
+  - Python Machine Learning: Discover the Essentials of Machine Learning, Data Analysis, Data Science, Data Mining, and Artificial Intelligence Using Python Code with Python Tricks
+  - DATA SCIENCE: A Comprehensive Beginner’s Guide to Learn About the Realms of Data Science from A-Z
+  - Python Programming: 2 Books in 1: Python for Data Analysis and Science with Big Data Analysis, Statistics and Machine Learning.
+  - Data Science from Scratch: From Data Visualization to Manipulation: It Is the Easy Way! All You Need for Business Using the Basic Principles of Python and Beyond (Revised & Expanded Edition)
+  - Data Science from Scratch with Python: A Step By Step Guide for Beginner's and Faster Way To Learn Python In 7 Days & NLP using Advanced (Including Programming Interview Questions)
+  - Roman's Data Science: How to monetize your data
+  - Machine Learning For Absolute Beginners: A Plain English Introduction (Second Edition) (AI, Data Science, Python & Statistics for Beginners Book 3)
+  - Emotional Data
+  - Data Science for Executives: Leveraging Machine Intelligence to Drive Business ROI
+  - Data Science for Beginners 2020: Learn How Data Analytics and Machine Learning Are Used to Define New Strategies for Marketing and Business. (The Data Science Bible, Book 1)
+  - Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking
+  - Build a Career in Data Science
+  - Statistics for Absolute Beginners (Second Edition) (AI, Data Science, Python & Statistics for Beginners Book 5)
+  - Leading a Data Driven Organization: A Practical Guide to Transforming Yourself and Your Organization to Win the Data Science Revolution     
+  - LISINAN Adjustable Reptile Terrarium Heat Lamp Stand,Metal Reptile Lamp Holder Bracket with Turtle Tank Light Fixture Accessories,Used for Lizards Snakes Amphibians Tortoise Habitat(M, 11.81"x25.19")
+  - Python for Beginners: A Step-by-Step Guide to Learn Python from Zero in Just 5 Days: Includes Hands-on Projects and Exercises
+  - Simplifying Regular Expression Using Python: #Awarded as One of the Best Book in 2020 and 2021 by bookauthority.org
+  - Learn Python Quickly: A Complete Beginner’s Guide to Learning Python, Even If You’re New to Programming: Crash Course with Hands-On Project, Book 1
+  - 53 Must Do Python Projects For All
+  - Python Programming: Answers all your Questions Step-by-Step (Programming for Beginners: A Friendly Q & A Guide Book 1)
+  - Learn Coding Basics for Kids, Young Adults and People Who Are Young at Heart, With Python: Python Computer Programming Made Easy!
+  - Machine Learning With Python For Beginners: A Step-By-Step Guide with Hands-On Projects (Learn Coding Fast with Hands-On Project Book 7)    
+  - Python: Python Programming, In 8 Hours, For Beginners, Learn Coding Fast: Python Language, Crash Course Textbook & Exercises (In 8 Hours Cookbooks 13)
+  - Python: 3 books in 1 : Python basics for Beginners + Python Automation Techniques And Web Scraping + Python For Data Science And Machine Learning
+  - Python for Kids: A Playful Introduction To Programming
+  - Python Programming For Beginners: The Ultimate Step-by-Step Guide To Learn Python Programming Fast with Practical Exercises
+  - PYTHON DATA SCIENCE: THE ULTIMATE STEP BY STEP BEGINNER’S GUIDE WITH TOOLS AND PRINCIPLES FOR CODING AND DATA ANALYSIS PLUS HANDS-ON PROJECTS TO HAVE A SUCCESSFUL PRACTICAL PROGRAMMING FROM SCRATCH
+  - Ultimate Step by Step Guide to Machine Learning Using Python: Predictive modelling concepts explained in simple terms for beginners
+  - Algorithms to Live By: The Computer Science of Human Decisions
+  - Python Programming for Beginners: An Introduction to the Python Computer Language and Computer Programming (Python, Python 3, Python Tutorial)
+  - Colt's Python, King of the Seven Serpents
+  - Python: Programming Basics for Absolute Beginners
+  - Python Mini Reference 2022: A Quick Guide to the Modern Python Programming Language for Busy Coders (A Hitchhiker's Guide to the Modern Programming Languages Book 3)
+  - Deep Learning with Python
+  - Learn Coding Basics in Hours with Python
+  - Hands-On Python INTERMEDIATE: with 50 Exercises, 2 Projects, 2 Assignments & Final Exam
+  - Python for Absolute Beginners: Rocket through the basics in an afternoon (AI, Data Science, Python & Statistics for Beginners Book 4)       
+  - Python Workbook: Learn Python in one day and Learn It Well (Workbook with Questions, Solutions and Projects) (Learn Coding Fast Workbook 1) 
+  - REPTI ZOO Reptile Terrarium Thermometer Hygrometer Digital Display Pet Rearing Box Reptiles Tank Thermometer Hygrometer with Suction Cup    
+  - DOHAOOE Reptile Tank Accessories Habitat Water Dish Tree Trunk and Artificial Arched Rock Bridge for Bearded Dragon Leopard Gecko Lizard Snake Chameleon Hermit Crab Ball Python Water Frog Turtle
+  - AQUA KT Reptile Corner Branch Terrarium Plant Decoration with Suction Cup for Amphibian Lizard Snake Climbing
+  - Zoo Med Reptile Rock Corner Water Dish, Large - Assorted colors
+  - kathson Reptile Vines Plants Flexible Bendable Jungle Climbing Vine Terrarium Plastic Plant Leaves Pet Tank Habitat Decor for Bearded Dragons Lizards Geckos Snakes Hermit Crab Frogs and More Reptiles
+  - Tikaton Reptile Heat Pad - Adjustable Temperature Under Tank Heater for 10-20gal/30-40gal Tank, Terrarium Heat Mat for Turtle/Snake/Lizard/Frog/Spider/Plant Box
+  - 2Pack Reptile Plants Hanging Silk Terrarium Plants with Suction Cup for Bearded Dragons,Lizards,Geckos,Snake,Hermit Crab Tank Habitat Decorations,Small Size,12 inches Green
+  - Python (2nd Edition): Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 1)
+  - Introduction to Multivariate Data Analysis (Easy Statistics)
+  - The Data Detective: Ten Easy Rules to Make Sense of Statistics
+  - Python Data Analysis: Comprehensive Guide to Data Science, Analytics and Metrics with Python (Data Science and Analysis Book 1)
+  - PYTHON FOR DATA ANALYSIS: Master the Basics of Data Analysis in Python Using Numpy & Pandas: Answers all your Questions Step-by-Step (Programming for Beginners: A Friendly Q & A Guide Book 3)
+  - Microsoft Excel: Advanced Microsoft Excel Data Analysis for Business
+  - Data Analytics, Data Visualization & Communicating Data: 3 books in 1: Learn the Processes of Data Analytics and Data Science, Create Engaging Data Visualizations, ... Present Data Effectively (All Things Data)
+  - Python for Data Analysis: From the Beginner to Expert Crash Course 3.0 that will Change your Life as a Digital Programmer Thanks to the Minimalism of this Manual. Deep Machine Learning and Big Data
+  - The Dropout Multi-Millionaire: 37 Business Lessons on How to Succeed in Business With No Money, No Education and No Clue
+  - PYTHON ALGORITHMS: A Complete Guide to Learn Python for Data Analysis, Machine Learning, and Coding from Scratch (Python programming language)
+  - PYTHON DATA ANALYTICS: Advanced and Effective Strategies of Using Python Data Analytics
+  - Start with Why: How Great Leaders Inspire Everyone to Take Action
+  - Essential R For Data Analysis: Data manipulation and visualization using R for beginning and intermediate users
+  - Python for Data Science: A Crash Course for Data Science and Analysis, Python Machine Learning and Big Data
+  - The Model Thinker: What You Need to Know to Make Data Work for You
+  - Excel Pivot Tables: Basic Beginners Guide to Learn Excel Pivot Tables for Data Analysis and Modeling
+  - Machine Learning: 4 Books in 1: The #1 Beginner's Guide to Master the Basics of Python Programming, Learn the Art of Data Science and Build Artificial Intelligence
+  - Naked Statistics: Stripping the Dread from the Data

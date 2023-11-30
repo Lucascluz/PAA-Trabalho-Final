@@ -1,0 +1,49 @@
+Título do Trabalho Final: Otimização em Problemas do Mundo Real: Escolha Livre dos Grupos
+
+Descrição do Trabalho:
+
+Neste trabalho final da disciplina de Projeto e Análise de Algoritmos (PAA), os grupos terão a liberdade de escolher um problema do mundo real para aplicar técnicas de otimização. A proposta é permitir que os alunos explorem diferentes contextos e desafios, aplicando algoritmos de otimização para encontrar soluções eficientes.
+
+Objetivos do Trabalho:
+
+Escolher um problema do mundo real que envolva decisões de otimização (logística, escalonamento, design, etc.).
+Proporcionar uma solução otimizada usando algoritmos apropriados de otimização.
+Executar testes para validar a eficácia da solução proposta.
+Contextualizar o trabalho, apresentando detalhes sobre o problema escolhido e a importância da otimização nesse contexto.
+Criar artefatos gráficos para visualização das soluções propostas.
+Classificar o problema quanto à sua complexidade e relacioná-lo a problemas da literatura.
+Etapas do Trabalho:
+
+Escolha do Problema: Os grupos devem escolher um problema do mundo real que envolva decisões de otimização. Isso pode incluir áreas como logística, escalonamento de tarefas, design de sistemas, entre outros.
+
+Formulação do Problema: Os grupos devem formular matematicamente o problema escolhido, identificando variáveis de decisão, restrições e a função objetivo.
+
+Escolha do Algoritmo de Otimização: Com base na natureza do problema, os grupos devem escolher um algoritmo de otimização adequado (algoritmos guloso, programação dinâmica, entre outros).
+
+Implementação: Implementar o algoritmo escolhido para resolver o problema formulado. Garantir que a implementação esteja correta e eficiente.
+
+Testes e Validação: Executar testes usando diferentes conjuntos de dados para validar a eficácia da solução proposta. Analisar o desempenho do algoritmo em diferentes cenários.
+
+Contextualização e Apresentação: Contextualizar o problema escolhido, explicar por que a otimização é crucial nesse contexto específico. Apresentar os resultados de maneira clara e visual, utilizando gráficos e outras representações visuais.
+
+Classificação e Relação com a Literatura: Classificar o problema quanto à sua classe de complexidade e relacionar os conceitos abordados na resolução do problema com problemas similares da literatura.
+
+Apresentação para a Turma: Cada grupo deve apresentar seu trabalho para a turma, explicando o problema escolhido, a abordagem de otimização utilizada, os resultados obtidos e as conclusões do trabalho.
+
+Avaliação:
+
+Os grupos serão avaliados com base na escolha do problema, na formulação matemática, na escolha e implementação do algoritmo, nos testes realizados, na qualidade da apresentação, e na capacidade de relacionar o problema com a literatura e os conceitos estudados na disciplina.
+
+Os grupos deverão ter 2 ou 3 alunos;
+
+Os grupos deverão entregar um documento PDF e fazer a apresentação através de slides em dia e horário definidos na planilha https://docs.google.com/spreadsheets/d/1--PHWFUA8zg0balQ4nxPTQC7yjao5rsyzRhaFH6qZPE/edit?usp=sharingLinks to an external site.
+
+Os grupos terão 15 minutos para fazer a apresentação, com tolerância de 2 minutos para mais ou para menos;
+
+Após a apresentação o grupo responderá questões e dúvidas dos demais alunos da turma e professor;
+
+A nota será individual, sendo 20 pontos pelo desenvolvimento do trabalho e 10 pontos pela participação na apresentação dos outros grupos;
+
+Outras dúvidas deverão ser tiradas com o professor.
+
+Obrigado e abraço.

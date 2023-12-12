@@ -60,13 +60,14 @@ def solve_knapsack():
     max_value, selected_items = knapsack_pd_solver(avg_reviews, prices, knapsack_capacity)
 
     # Exibindo resultados na interface gráfica
+    num_result_label.config(text=f"Quantidade de Livros selecionados: {len(selected_items)}")
     result_label.config(text=f"Total de estrelas obtidas (programação dinâmica): {max_value}")
     avg_stars_label.config(text=f"Média de estrelas: {max_value / len(selected_items)}")
     items_label.config(text="Itens selecionados:\n" + "\n".join([f"  - {df.loc[item, 'title']}" for item in selected_items]))
 
 # Configuração da interface gráfica
 root = tkinter.Tk()
-root.title("Resolutor de Mochila 0/1")
+root.title("Resolutor de Mochila 0/1 (Programação Dinâmica)")
 
 # Botão para carregar o arquivo CSV
 load_button = ttk.Button(root, text="Carregar Arquivo CSV", command=solve_knapsack)
@@ -75,9 +76,12 @@ load_button.pack(pady=10)
 # Entrada para a capacidade da mochila
 capacity_entry = ttk.Entry(root)
 capacity_entry.pack(pady=5)
-capacity_entry.insert(0, "Digite a capacidade da mochila em dólares")
+capacity_entry.insert(0, "100")
 
 # Rótulos para os resultados
+num_result_label = ttk.Label(root, text="")
+num_result_label.pack(pady=5)
+
 result_label = ttk.Label(root, text="")
 result_label.pack(pady=5)
 

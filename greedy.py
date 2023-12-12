@@ -46,11 +46,8 @@ total_start_time = time.time()
 max_value, selected_items = knapsack_greedy_solver(avg_reviews, prices, knapsack_capacity)
 
 # Exibindo resultados
-print(f"Valor máximo obtido (método guloso): {max_value}")
+print(f"Total de estrelas obtidas(greedy): {max_value}")
+print(f"Média de estrelas: {max_value / len(selected_items)}")
 print("Itens selecionados:")
 for item in selected_items:
     print(f"  - {df.loc[item, 'title']}")
-
-# Medindo o tempo total de execução
-total_end_time = time.time()
-print(f"Tempo total de execução: {total_end_time - total_start_time} segundos")

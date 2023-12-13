@@ -1,5 +1,8 @@
-from builtins import bin, enumerate, filter, input, int, len, print, range, max, sum
+from builtins import enumerate, input, int, len, print, range, max, sum
+import tkinter
 import pandas as pd
+from tkinter import ttk
+from tkinter import filedialog
 import time
 
 def generate_combinations(n):
@@ -32,24 +35,53 @@ def knapsack_bruteforce_solver(values, weights, capacity):
 
     return max_value, selected_items
 
-# Carregando o arquivo CSV
-csv_file_path = 'partial.csv'  # Substitua pelo caminho do seu arquivo CSV
-df = pd.read_csv(csv_file_path)
+# Função para resolver o problema da mochila 0/1 com a interface gráfica
+def solve_knapsack():
+    # Carregando o arquivo CSV
+    file_path = filedialog.askopenfilename(title="Selecione o arquivo CSV")
+    df = pd.read_csv(file_path)
 
-# Extraindo valores relevantes das colunas
-avg_reviews = df['avg_reviews'].fillna(0).tolist()  # Preenchendo valores ausentes com 0
-prices = df['price'].fillna(0).tolist()  # Preenchendo valores ausentes com 0
-knapsack_capacity = int(input("Digite a capacidade da mochila em dólares: "))
+    # Extraindo valores relevantes das colunas
+    avg_reviews = df['avg_reviews'].fillna(0).tolist()
+    prices = df['price'].fillna(0).tolist()
 
-# Medindo o tempo total de execução
-total_start_time = time.time()
+    # Obtendo a capacidade da mochila através da interface gráfica
+    knapsack_capacity = int(capacity_entry.get())
 
-# Resolvendo o problema da mochila 0/1 com força bruta otimizada
-max_value_bruteforce, selected_items_bruteforce = knapsack_bruteforce_solver(avg_reviews, prices, knapsack_capacity)
+    # Resolvendo o problema da mochila 0/1
+    max_value, selected_items = knapsack_bruteforce_solver(avg_reviews, prices, knapsack_capacity)
 
-# Exibindo resultados
-print(f"Total de estrelas obtidas(método de força bruta otimizada): {max_value_bruteforce}")
-print(f"Média de estrelas: {max_value_bruteforce / len(selected_items_bruteforce)}")
-print("Itens selecionados:")
-for item in selected_items_bruteforce:
-    print(f"  - {df.loc[item, 'title']}")
+    # Exibindo resultados na interface gráfica
+    num_result_label.config(text=f"Quantidade de Livros selecionados: {len(selected_items)}")
+    result_label.config(text=f"Total de estrelas obtidas (programação dinâmica): {max_value}")
+    avg_stars_label.config(text=f"Média de estrelas: {max_value / len(selected_items)}")
+    items_label.config(text="Itens selecionados:\n" + "\n".join([f"  - {df.loc[item, 'title']}" for item in selected_items]))
+
+# Configuração da interface gráfica
+root = tkinter.Tk()
+root.title("Resolutor de Mochila 0/1 (Programação Dinâmica)")
+
+# Botão para carregar o arquivo CSV
+load_button = ttk.Button(root, text="Carregar Arquivo CSV", command=solve_knapsack)
+load_button.pack(pady=10)
+
+# Entrada para a capacidade da mochila
+capacity_entry = ttk.Entry(root)
+capacity_entry.pack(pady=5)
+capacity_entry.insert(0, "100")
+
+# Rótulos para os resultados
+num_result_label = ttk.Label(root, text="")
+num_result_label.pack(pady=5)
+
+result_label = ttk.Label(root, text="")
+result_label.pack(pady=5)
+
+avg_stars_label = ttk.Label(root, text="")
+avg_stars_label.pack(pady=5)
+
+items_label = ttk.Label(root, text="")
+items_label.pack(pady=5)
+
+# Iniciar a interface gráfica
+root.mainloop()

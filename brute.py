@@ -1,4 +1,4 @@
-from builtins import enumerate, input, int, len, print, range, max, sum
+from builtins import bin, enumerate, input, int, len, print, range, max, sum
 import tkinter
 import pandas as pd
 from tkinter import ttk
